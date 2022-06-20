@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.question{
+    max-width: 1300px;
+   
+    width: 30%;
+    height: 50px;
+    background-color: burlywood;
+    display: flex;
+    align-items: center;
+
+    margin:  4px auto;
+    border:  1px solid gray;
+}
+.answer{
+    background-color: whitesmoke;
+    max-width: 1200px;
+   
+    width: 30%;
+    height: auto;
+    border:  1px solid greenyellow;
+    display: flex;
+    align-items: center;
+    margin:  0 auto;
+  
+    
+
+}
+.green{
+   
+    background-color:chocolate;
+    height: 50px;
+    width: 100%;
+    border:  1px solid gray;
+    display: flex;
+    align-items: center;
+
+}
+h1{
+    text-align: center;
+    color: red;
+}
