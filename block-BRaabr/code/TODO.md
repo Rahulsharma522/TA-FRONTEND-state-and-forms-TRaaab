@@ -9,7 +9,6 @@ Create a multiple input with all the different input types.
 - Disabled Input (Input type text)
 - Textarea Input (Textarea)
 - Textarea Input Disabled
-
 ![Form](../assets/multiple-input-forms.png)
 
 ## Form Validation (Create another component)
