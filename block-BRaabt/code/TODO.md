@@ -6,8 +6,8 @@ Types to create:
 - `success` — Indicates` a successfully completed action.
 - `info` — Provides neutral information about a process or an action.
 - `error` — Informs the user about an erroneous outcome of a process or an action.
-- `warning` — Warns against the occurrence of possible issues.
-
+- `warning` - Warns against the occurrence of possible issues.
+- `warning`
 ## App View
 
 ![](./assets/notification.gif)
